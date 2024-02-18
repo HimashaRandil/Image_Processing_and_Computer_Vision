@@ -10,7 +10,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 
 * [0. Introduction Notes](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/0.%20Introduction%20Notes)
 * [1. Basic Image Processing](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/1.%20Basic%20Image%20Processing)
-Image Segmentation
+* [2. Optical Character Recognition - OCR](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/2.%20OCR%20-%20Optical%20Charater%20Recognition)
 Feature Extraction
 Object Recognition and Classification
 Computer Vision Basics
