@@ -1,7 +1,9 @@
 # Image_Processing_and_Computer_Vision
 
 > Module: CS4132 - Image Processing and Computer Vision
+
 > Semester: 7th
+
 > Lecturer: Dr. Kaneeka Vidanage
 
 Welcome to the comprehensive collection of notes and codes from the CS4132 module on Image Processing and Computer Vision, taught during the 7th semester under the expert guidance of Dr. Kaneeka Vidanage. This repository encapsulates the key concepts, algorithms, and practical implementations covered throughout the course.
