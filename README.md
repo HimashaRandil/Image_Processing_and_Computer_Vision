@@ -12,8 +12,8 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [1. Basic Image Processing](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/1.%20Basic%20Image%20Processing)
 * [2. Optical Character Recognition - OCR](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/2.%20OCR%20-%20Optical%20Charater%20Recognition)
 * [3. Region Of Interest](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst)
-Object Recognition and Classification
-Computer Vision Basics
+* [4. Intelligent Template Matching](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/4.%20Intelligent%20Template%20Macthing)
+* 
 Convolutional Neural Networks (CNNs) in Vision
 
 ## How to Use:
