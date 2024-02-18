@@ -1,8 +1,8 @@
 # Image_Processing_and_Computer_Vision
 
-Module: CS4132 - Image Processing and Computer Vision
-Semester: 7th
-Lecturer: Dr. Kaneeka Vidanage
+> Module: CS4132 - Image Processing and Computer Vision
+> Semester: 7th
+> Lecturer: Dr. Kaneeka Vidanage
 
 Welcome to the comprehensive collection of notes and codes from the CS4132 module on Image Processing and Computer Vision, taught during the 7th semester under the expert guidance of Dr. Kaneeka Vidanage. This repository encapsulates the key concepts, algorithms, and practical implementations covered throughout the course.
 
@@ -15,7 +15,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [4. Intelligent Template Matching](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/4.%20Intelligent%20Template%20Macthing)
 * [5. Live Object Detection Using Mobile Net](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/5.%20Live%20Object%20Detection%20Using%20MobileNet)
 * [6. Image Processing With Deep Neural Nets ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/6.%20Image%20Processing%20with%20Deep%20Neural%20Nets)
-Convolutional Neural Networks (CNNs) in Vision
+* [7. Gun Holding Detection](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/7.%20Gun%20Holding%20Detection) 
 
 ## How to Use:
 Navigate through the organized folders to access detailed notes, code snippets, and practical examples for each topic. This repository serves as a valuable resource for reviewing the theoretical foundations and implementing hands-on solutions in the realm of image processing and computer vision.
