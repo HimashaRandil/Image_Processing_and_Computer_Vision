@@ -1,0 +1,21 @@
+tensorflow is good model for deeplearning 
+on the platform of tensorflow kera has been developed
+kera is wrapper for tensorflow because it helps to deal with tensorflow logics with less codes
+
+dense neural networks are costly and need high comuptational power and takes too much time
+dense neural networks might cause for over fitting 
+
+ResNet
+MobileNet
+RetinaNet
+
+These are not dense networks. they are having diffrent connection with neurons and works efficiently.
+
+In image augmentation we apply artificial variation for same image 
+Using that it can expand the dataset
+For data augmentation albumentation  and roboflow website
+
+Freezing
+we freez top layer to unfreez because the vgg model train on image net dataset and already learned shape
+patterns and when model's bottom layer learn from the phenumonia data and crossfitting that knowledge with top
+layer to identi
