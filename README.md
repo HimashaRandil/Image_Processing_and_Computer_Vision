@@ -8,7 +8,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 
 ## Topics Covered:
 
-Fundamentals of Image Processing
+* [0. Introduction Notes](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/0.%20Introduction%20Notes)
 Image Enhancement and Restoration
 Image Segmentation
 Feature Extraction
