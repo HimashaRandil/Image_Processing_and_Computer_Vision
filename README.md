@@ -14,6 +14,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [3. Region Of Interest](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst)
 * [4. Intelligent Template Matching](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/4.%20Intelligent%20Template%20Macthing)
 * [5. Live Object Detection Using Mobile Net](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/5.%20Live%20Object%20Detection%20Using%20MobileNet)
+* [6. Image Processing With Deep Neural Nets ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/6.%20Image%20Processing%20with%20Deep%20Neural%20Nets)
 Convolutional Neural Networks (CNNs) in Vision
 
 ## How to Use:
