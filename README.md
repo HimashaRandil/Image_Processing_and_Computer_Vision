@@ -17,7 +17,8 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [4. Intelligent Template Matching](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/4.%20Intelligent%20Template%20Macthing)
 * [5. Live Object Detection Using Mobile Net](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/5.%20Live%20Object%20Detection%20Using%20MobileNet)
 * [6. Image Processing With Deep Neural Nets ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/6.%20Image%20Processing%20with%20Deep%20Neural%20Nets)
-* [7. Gun Holding Detection](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/7.%20Gun%20Holding%20Detection) 
+* [7. Gun Holding Detection](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/7.%20Gun%20Holding%20Detection)
+* [8. Multiclass Classification](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/8.%20Multiclass%20Classification)
 
 ## How to Use:
 Navigate through the organized folders to access detailed notes, code snippets, and practical examples for each topic. This repository serves as a valuable resource for reviewing the theoretical foundations and implementing hands-on solutions in the realm of image processing and computer vision.
