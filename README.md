@@ -21,7 +21,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [8. Multiclass Classification](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/8.%20Multiclass%20Classification)
 * [9. Emotion Detection using DeepFace ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/9.%20Emotion%20Detetion%20Using%20DeepFace)
 * [10. Handwritten Character Recognition Using MLP](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/10.%20Handwritten%20Charater%20Recognition%20Using%20MLP)
-* [10. Handwritten Character Recognition Using CNN](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/11.%20Handwritten%20Charater%20Recognition%20Using%20CNN)
+* [11. Handwritten Character Recognition Using CNN](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/11.%20Handwritten%20Charater%20Recognition%20Using%20CNN)
 
 ## How to Use:
 Navigate through the organized folders to access detailed notes, code snippets, and practical examples for each topic. This repository serves as a valuable resource for reviewing the theoretical foundations and implementing hands-on solutions in the realm of image processing and computer vision.
