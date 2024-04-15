@@ -19,6 +19,7 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [6. Image Processing With Deep Neural Nets ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/6.%20Image%20Processing%20with%20Deep%20Neural%20Nets)
 * [7. Gun Holding Detection](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/7.%20Gun%20Holding%20Detection)
 * [8. Multiclass Classification](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/8.%20Multiclass%20Classification)
+* [9. Emotion Detection using DeepFace ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/9.%20Emotion%20Detetion%20Using%20DeepFace)
 
 ## How to Use:
 Navigate through the organized folders to access detailed notes, code snippets, and practical examples for each topic. This repository serves as a valuable resource for reviewing the theoretical foundations and implementing hands-on solutions in the realm of image processing and computer vision.
