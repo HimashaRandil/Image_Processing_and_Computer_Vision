@@ -13,7 +13,10 @@ Welcome to the comprehensive collection of notes and codes from the CS4132 modul
 * [0. Introduction Notes](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/0.%20Introduction%20Notes)
 * [1. Basic Image Processing](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/1.%20Basic%20Image%20Processing)
 * [2. Optical Character Recognition - OCR](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/2.%20OCR%20-%20Optical%20Charater%20Recognition)
-* [3. Region Of Interest](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst)
+* [3. Region Of Interest](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst)0
+            - [3.1 Automatic Number Plate Detection - By Nick](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst/Automatic%20Number%20Plate%20Detetcion%20-%20By%20Nick)
+            - [3.2 Dumb ROI - Number Plate Detction](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst/Dumb%20ROI%20-%20Number%20Plate%20Detection)
+            - [3.3 Number Plate Detection with Intelligent ROI](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/3.%20Region%20of%20Intretst/Number%20Plate%20Detection%20with%20Intelighet%20ROI)
 * [4. Intelligent Template Matching](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/4.%20Intelligent%20Template%20Macthing)
 * [5. Live Object Detection Using Mobile Net](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/5.%20Live%20Object%20Detection%20Using%20MobileNet)
 * [6. Image Processing With Deep Neural Nets ](https://github.com/HimashaRandil/Image_Processing_and_Computer_Vision/tree/main/6.%20Image%20Processing%20with%20Deep%20Neural%20Nets)
